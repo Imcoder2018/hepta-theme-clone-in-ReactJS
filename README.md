@@ -1,6 +1,6 @@
 # Hepta Clone
 
-A pixel-perfect replica of the Hepta travel website "[template](https://preview.colorlib.com/theme/hepta/)".
+A pixel-perfect replica of the Hepta travel website template "[preview.colorlib.com/theme/hepta/](https://preview.colorlib.com/theme/hepta/)".
 
 ## Tech Stack
 
